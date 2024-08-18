@@ -1,4 +1,4 @@
-# Renew_MN
+# Renewables_MN
 Engineering of Wind Project Development \
 My student project completed as part of a grad certificate in wind engineering at PSU. \
 It is an adaption of; \
